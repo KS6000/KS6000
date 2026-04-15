@@ -29,5 +29,5 @@
 ---
 
 ## 📫 Contact
-- LinkedIn: (add your link here)
+- LinkedIn:  https://www.linkedin.com/in/krishan-shura-1104661b7 
 - GitHub: https://github.com/KS6000
