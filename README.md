@@ -1,16 +1,33 @@
-## Hi there 👋
+# 👋 Hi, I'm K S
 
-<!--
-**KS6000/KS6000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Junior Automation Test Engineer based in London, UK  
+💻 Skilled in Cypress, JavaScript, and End-to-End Testing  
+📈 Currently building real-world automation projects  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧪 Projects
+
+### 🔹 HSBC Automation Project (Cypress)
+- Automated end-to-end testing for banking workflows
+- Covered Login, ATM, and Credit Card scenarios
+- Used Page Object Model (POM)
+
+### 🔹 Hotel Booking Automation (Cypress)
+- End-to-end testing for hotel booking flow
+- Validated search and booking functionality
+
+---
+
+## 🛠️ Skills
+- Cypress  
+- JavaScript  
+- Test Automation  
+- End-to-End Testing  
+- Git & GitHub  
+
+---
+
+## 📫 Contact
+- LinkedIn: (add your link here)
+- GitHub: https://github.com/KS6000
