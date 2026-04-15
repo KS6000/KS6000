@@ -1,30 +1,43 @@
 # 👋 Hi, I'm K S
 
 🚀 Junior Automation Test Engineer based in London, UK  
-💻 Skilled in Cypress, JavaScript, and End-to-End Testing  
-📈 Currently building real-world automation projects  
+💻 Specialising in Cypress, JavaScript, and End-to-End Testing  
+📈 Building real-world automation frameworks and test suites  
 
 ---
 
-## 🧪 Projects
+## 🧪 Featured Projects
 
-### 🔹 HSBC Automation Project (Cypress)
-- Automated end-to-end testing for banking workflows
-- Covered Login, ATM, and Credit Card scenarios
-- Used Page Object Model (POM)
+### 🏦 HSBC Automation Testing Project
+- Automated key banking workflows (Login, ATM, Credit Card)
+- Designed structured test cases (TC001, TC002, TC003)
+- Implemented Page Object Model (POM)
+- Generated test evidence (screenshots)
 
-### 🔹 Hotel Booking Automation (Cypress)
-- End-to-end testing for hotel booking flow
-- Validated search and booking functionality
+https://github.com/KS6000/HSBC-Automation
 
 ---
 
-## 🛠️ Skills
-- Cypress  
-- JavaScript  
-- Test Automation  
-- End-to-End Testing  
-- Git & GitHub  
+### 🏨 Hotel Booking Automation Project (In Progress)
+- End-to-end booking flow testing
+- UI validation and form testing
+- Real-world user scenarios
+
+👉 (Add repo link when ready)
+
+---
+
+## 🛠️ Tech Stack
+- Cypress
+- JavaScript
+- Git & GitHub
+- Test Automation
+- End-to-End Testing
+
+---
+
+## 🎯 Career Goal
+To secure a Junior Automation Test Engineer role where I can contribute to real-world QA projects using Cypress.
 
 ---
 
