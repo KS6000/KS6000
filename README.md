@@ -19,9 +19,10 @@ https://github.com/KS6000/HSBC-Automation
 ---
 
 ### 🏨 Hotel Booking Automation Project (In Progress)
-- End-to-end booking flow testing
-- UI validation and form testing
-- Real-world user scenarios
+Automated end-to-end hotel booking flow using Cypress
+Implemented Page Object Model (POM) for maintainability
+Integrated CI/CD using GitHub Actions (automated test runs)
+Covered validation scenarios, booking flows, and edge cases
 
 https://github.com/KS6000/Hotel-Booking-Site
 
