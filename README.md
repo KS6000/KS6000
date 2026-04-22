@@ -23,7 +23,7 @@ https://github.com/KS6000/HSBC-Automation
 - UI validation and form testing
 - Real-world user scenarios
 
-👉 (Add repo link when ready)
+https://github.com/KS6000/Hotel-Booking-Site
 
 ---
 
