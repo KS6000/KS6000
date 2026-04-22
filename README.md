@@ -12,13 +12,13 @@
 - Automated key banking workflows (Login, ATM, Credit Card)
 - Designed structured test cases (TC001, TC002, TC003)
 - Implemented Page Object Model (POM)
-- Generated test evidence (screenshots)
+- Captured and documented test evidence (screenshots)
 
 https://github.com/KS6000/HSBC-Automation
 
 ---
 
-### 🏨 Hotel Booking Automation Project (In Progress)
+### 🏨 Hotel Booking Automation Project 
 - Automated end-to-end hotel booking flow using Cypress
 - Implemented Page Object Model (POM) for maintainability
 - Integrated CI/CD using GitHub Actions (automated test runs)
@@ -34,6 +34,8 @@ https://github.com/KS6000/Hotel-Booking-Site
 - Git & GitHub
 - Test Automation
 - End-to-End Testing
+
+- Achieved 100% passing tests locally and in CI pipeline
 
 ---
 
