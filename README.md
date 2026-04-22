@@ -23,6 +23,7 @@ https://github.com/KS6000/HSBC-Automation
 - Implemented Page Object Model (POM) for maintainability
 - Integrated CI/CD using GitHub Actions (automated test runs)
 - Covered validation scenarios, booking flows, and edge cases
+- • Achieved 100% passing tests locally and in CI pipeline
 
 https://github.com/KS6000/Hotel-Booking-Site
 
