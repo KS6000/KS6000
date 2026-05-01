@@ -33,10 +33,11 @@ https://github.com/KS6000/Hotel-Booking-Site
 - Cypress (Advanced), Playwright (learning)
 - JavaScript (ES6+)
 - Page Object Model (POM)
-- Git & GitHub
-- Test Automation
-- End-to-End Testing
 - CI/CD (GitHub Actions)
+- API Testing (Postman)
+- End-to-End Testing
+- Test Automation
+- Git and GitHub
 
 ---
 
