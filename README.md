@@ -35,7 +35,7 @@ https://github.com/KS6000/Hotel-Booking-Site
 - Git & GitHub
 - Test Automation
 - End-to-End Testing
-- CI/CD (Github actions)
+- CI/CD (GitHub Actions)
 
 - Achieved 100% passing tests locally and in CI pipeline
 
