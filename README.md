@@ -40,7 +40,7 @@ https://github.com/KS6000/Hotel-Booking-Site
 ---
 
 ## 🎯 Career Goal
-To secure a Junior Automation Test Engineer role where I can contribute to real-world QA projects using Cypress.
+To secure a Junior Automation Test Engineer role where I can contribute to real-world QA projects using Cypress and Playwright, while continuing to develop scalable test automation frameworks.
 
 ---
 
