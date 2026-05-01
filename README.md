@@ -30,7 +30,7 @@ https://github.com/KS6000/Hotel-Booking-Site
 ---
 
 ## 🛠️ Tech Stack
-- Cypress (Advanced) Playwright (learning)
+- Cypress (Advanced), Playwright (learning)
 - JavaScript (ES6+)
 - Git & GitHub
 - Test Automation
