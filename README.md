@@ -37,8 +37,6 @@ https://github.com/KS6000/Hotel-Booking-Site
 - End-to-End Testing
 - CI/CD (GitHub Actions)
 
-- Achieved 100% passing tests locally and in CI pipeline
-
 ---
 
 ## 🎯 Career Goal
