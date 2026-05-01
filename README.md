@@ -32,6 +32,7 @@ https://github.com/KS6000/Hotel-Booking-Site
 ## 🛠️ Tech Stack
 - Cypress (Advanced), Playwright (learning)
 - JavaScript (ES6+)
+- Page Object Model (POM)
 - Git & GitHub
 - Test Automation
 - End-to-End Testing
