@@ -1,9 +1,9 @@
 # 👋 Hi, I'm K S
 
 🚀 Junior Automation Test Engineer based in London, UK  
-💻 Specialising in Cypress, JavaScript, and End-to-End Testing  
-📈 Building real-world automation frameworks and test suites  
-
+💻 Specialising in Cypress, Playwright, JavaScript, and End-to-End Testing  
+⚡ Building real-world automation frameworks with CI/CD pipelines  
+📚 ISTQB Certified | 3+ Years Manual Testing Experience
 ---
 
 ## 🧪 Featured Projects
@@ -18,6 +18,18 @@ https://github.com/KS6000/HSBC-Automation
 
 ---
 
+## 🎭 Playwright SauceDemo Automation Project
+
+- Automated end-to-end user journeys using Playwright
+- Built scalable Page Object Model (POM) framework
+- Implemented GitHub Actions CI/CD pipeline
+- Generated Playwright HTML reports
+- Covered login, checkout, cart, and validation scenarios
+
+https://github.com/KS6000/Playwright-SauceDemo
+
+---
+
 ### 🏨 Hotel Booking Automation Project 
 - Automated end-to-end hotel booking flow using Cypress
 - Implemented Page Object Model (POM) for maintainability
@@ -29,17 +41,41 @@ https://github.com/KS6000/Hotel-Booking-Site
 
 ---
 
-## 🛠️ Tech Stack
-- Cypress (Advanced), Playwright (learning)
-- JavaScript (ES6+)
-- Page Object Model (POM)
-- CI/CD (GitHub Actions)
-- API Testing (Postman)
-- End-to-End Testing
-- Test Automation
-- Git and GitHub
+## 🎭 Playwright Automation Project
+
+- Automated real-world web testing scenarios using Playwright
+- Used JavaScript and Playwright Test framework
+- Applied reusable locators and modular framework design
+- Integrated automated test execution with GitHub Actions
+
+https://github.com/KS6000/Playwright-Automation
 
 ---
+
+## 🛠 Tech Stack
+
+- Cypress
+- Playwright
+- Selenium (Learning)
+- JavaScript (ES6+)
+- TestNG
+- Postman
+- Git & GitHub
+- GitHub Actions (CI/CD)
+- Page Object Model (POM)
+- End-to-End Testing
+- API Testing
+
+---
+
+## 📖 Currently Learning
+
+- Selenium WebDriver
+- TestNG Framework
+- API Testing with Postman
+- Advanced Playwright Automation
+
+---  
 
 ## 🎯 Career Goal
 To secure a Junior Automation Test Engineer role where I can contribute to real-world QA projects using Cypress and Playwright, while continuing to develop scalable test automation frameworks.
