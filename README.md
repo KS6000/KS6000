@@ -4,6 +4,14 @@
 💻 Specialising in Cypress, Playwright, JavaScript, and End-to-End Testing  
 ⚡ Building real-world automation frameworks with CI/CD pipelines  
 📚 ISTQB Certified | 3+ Years Manual Testing Experience
+
+---
+
+## 🚦 CI/CD Status
+
+![Cypress Tests](YOUR_BADGE_LINK)
+![Playwright Tests](YOUR_BADGE_LINK)
+
 ---
 
 ## 🧪 Featured Projects
