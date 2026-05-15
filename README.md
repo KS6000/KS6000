@@ -9,9 +9,9 @@
 
 ## 🚦 CI/CD Status
 
-![Cypress Tests](https://github.com/KS6000/HSBC-Automation/actions/workflows/cypress.yml/badge.svg)](https://github.com/KS6000/HSBC-Automation/actions/workflows/cypress.yml)
+(https://github.com/KS6000/HSBC-Automation/actions/workflows/cypress.yml/badge.svg)](https://github.com/KS6000/HSBC-Automation/actions/workflows/cypress.yml)
 
-![Playwright Tests](https://github.com/KS6000/Playwright-Automation/actions/workflows/playwright.yml/badge.svg)](https://github.com/KS6000/Playwright-Automation/actions/workflows/playwright.yml)
+(https://github.com/KS6000/Playwright-Automation/actions/workflows/playwright.yml/badge.svg)](https://github.com/KS6000/Playwright-Automation/actions/workflows/playwright.yml)
 
 ---
 
