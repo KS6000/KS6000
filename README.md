@@ -10,7 +10,7 @@
 ## 🚦 CI/CD Status
 
 ![Cypress Tests](YOUR_BADGE_LINK)
-![Playwright Tests](YOUR_BADGE_LINK)
+![Playwright Tests] (https://github.com/KS6000/Playwright-SauceDemo/actions/workflows/playwright.yml/badge.svg)](https://github.com/KS6000/Playwright-SauceDemo/actions/workflows/playwright.yml)
 
 ---
 
