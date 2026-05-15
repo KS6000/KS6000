@@ -9,7 +9,8 @@
 
 ## 🚦 CI/CD Status
 
-![Cypress Tests](YOUR_BADGE_LINK)
+![Cypress Tests](https://github.com/KS6000/HSBC-Automation/actions/workflows/cypress.yml/badge.svg)](https://github.com/KS6000/HSBC-Automation/actions/workflows/cypress.yml)
+
 ![Playwright Tests] (https://github.com/KS6000/Playwright-SauceDemo/actions/workflows/playwright.yml/badge.svg)](https://github.com/KS6000/Playwright-SauceDemo/actions/workflows/playwright.yml)
 
 ---
