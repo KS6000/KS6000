@@ -9,7 +9,7 @@
 
 ## 🚦 CI/CD Status
 
-
+[![Cypress Tests](https://github.com/KS6000/HSBC-Automation/actions/workflows/cypress.yml/badge.svg)](https://github.com/KS6000/HSBC-Automation/actions/workflows/cypress.yml)
 
 ---
 
